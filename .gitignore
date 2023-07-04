@@ -1,0 +1,2 @@
+# В директории проекта backend_test_homework/ создайте файл text.doc и текстовый файл .gitignore. В файл .gitignore добавьте строчку с текстом *.doc.
+*.doc
